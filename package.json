@@ -1,0 +1,15 @@
+{
+  "name": "team1540-hp-pavillion-ble-testing",
+  "version": "1.0.0",
+  "description": "Testing the noble and bleno nodejs libraries for the new non-robot-software machines.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flamingchickens1540/hp-pavillion-ble-testing.git"
+  },
+  "author": "Ryan Richard Selden",
+  "homepage": "https://github.com/flamingchickens1540/hp-pavillion-ble-testing#readme",
+  "dependencies": {
+    "bleno": "^0.4.0",
+    "noble": "^1.6.0"
+  }
+}
